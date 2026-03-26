@@ -10,3 +10,4 @@ i am sam
 this a way
 welcome home dad
 wake up morning
+safe exit done
